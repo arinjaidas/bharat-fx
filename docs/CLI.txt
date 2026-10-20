@@ -1,0 +1,11 @@
+usage: public_demo.py [-h] (--demo | --data DATA) [--output OUTPUT]
+
+New synthetic public example of external-sector accounting and stress
+scenarios. This module is not the original BHARAT-FX 00-19 research pipeline.
+Its conventions and simplified scenarios are documented in docs/METHODS.md.
+
+options:
+  -h, --help       show this help message and exit
+  --demo
+  --data DATA
+  --output OUTPUT

@@ -1,0 +1,157 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/bharat-fx",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 767,
+      "sha256": "403afb85fdceb62bd392ba5276f2e9bda4376fc7a59fb7be10d6b35707dc872c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 333,
+      "sha256": "081ccece33f49c8dcb55b971dad70cf1830d08244c6b19751c5c7c80e7d6b26e"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4308,
+      "sha256": "39c24176090df488cf8c3905c5a836be478c966189d7460517919be72c87e01b"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1350,
+      "sha256": "bbd6a396e26df350931289a639efbb24cf7cd5b81f22b24b5b9c990aa5522a22"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 686,
+      "sha256": "014a2e5e496fba1f5ba8f359b50da2b369a366240791420e6fbb5e411c4527c5"
+    },
+    {
+      "path": "demo_output/accounting.csv",
+      "bytes": 25128,
+      "sha256": "0272530907e2c2c7e29618e8f13a739b5be97a7e048dd2e632c88ace9d434894"
+    },
+    {
+      "path": "demo_output/calibration.csv",
+      "bytes": 280,
+      "sha256": "6386704423aac569ca3f8ecd577e42846fc3b74ddbc834c2846c1d6f55305c82"
+    },
+    {
+      "path": "demo_output/reserve_scenarios.svg",
+      "bytes": 47084,
+      "sha256": "425bc7d59b7a0f667fe18473ddf58047ce3d3f12de9193aaa91dceca4672f5da"
+    },
+    {
+      "path": "demo_output/run_metadata.json",
+      "bytes": 574,
+      "sha256": "2092b35f8415258c4ac81541ea3a9d4d8ed9bd4d9cb145ddf47a2fef0576dbe5"
+    },
+    {
+      "path": "demo_output/scenarios.csv",
+      "bytes": 1861,
+      "sha256": "3df64083cc956806f25a254bb3b09746506185f8cb6fa511c27e1aa936f94af9"
+    },
+    {
+      "path": "demo_output/stress_diagnostic.csv",
+      "bytes": 19338,
+      "sha256": "0a3c2388168acbc227f0dee260f35197b5c71b96585fa902d7f6a55518365375"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 395,
+      "sha256": "e610abd738a1e6587f61ad78239c8a6c56a3ec8bb1e5bb2860a438ca9487e26b"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 871,
+      "sha256": "2de14822827ff58f7d7a2845d82783368479253a0f04eaf550b3fd298a734bb9"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 2036,
+      "sha256": "083ec181d73e01ca861271b4f56b99b78ae301c7426003f765e97c0effe804ad"
+    },
+    {
+      "path": "docs/ORIGINAL_RESEARCH_STATUS.md",
+      "bytes": 776,
+      "sha256": "52e5f3fdfa46fd5ad0f4a4d2b3942c9aebf74b8b6a2afc8528190b9f088254a8"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1103,
+      "sha256": "60382a0a4b5e60cdf5db29d606a4ae3e91203308ad40e757c08c4ce97b6cecab"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 356,
+      "sha256": "9129b11928ab68e3d50794bb55f2247c770ea252d21f48b1d01b5f58ea692a34"
+    },
+    {
+      "path": "docs/RESEARCH_SCOPE.md",
+      "bytes": 1979,
+      "sha256": "5a61d6cc20549b59cfffd57b2eeb21cd9e6917d768228cda23d9381b788d14a1"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 874,
+      "sha256": "933f5d087df9db9187285d04c38e2f2501a70e79493276f0af4e989550c4b7c2"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 460,
+      "sha256": "7eabe72507f36975555061ad98f67501f8591fcd3bd734d4907df02a08a30ca4"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 3660,
+      "sha256": "2181c0058f62fc942007ea6feee1ce50076dd17b05a1254940b39d14c4f81f62"
+    },
+    {
+      "path": "public_demo.py",
+      "bytes": 9189,
+      "sha256": "5e4615fefe4406b531602847dc9cd30e9f6dfa44155693ba536cf4f9d817f1fb"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 40,
+      "sha256": "982c24839a17e4ed89742eb74690aca75fbf40aeb1247d88bd456aa37e2f1be2"
+    },
+    {
+      "path": "test_public_demo.py",
+      "bytes": 2882,
+      "sha256": "47c7841c771e0fc1889738357a5e8dcbdf85fe6c62652caf128d9350327d710b"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}
